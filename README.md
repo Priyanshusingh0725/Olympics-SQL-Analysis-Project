@@ -1,10 +1,3 @@
-Sure, Priyanshu! Here's a **professional, clean, and beginner-friendly** `README.md` tailored specifically for your Olympics SQL Analysis project — perfect for GitHub and LinkedIn portfolio.
-
----
-
-## ✅ Copy & Paste: Final `README.md` for GitHub
-
-```markdown
 # 🏅 Olympics SQL Analysis Project
 
 This project explores 120+ years of Olympic Games data using structured SQL queries to gain insights into athlete performance, medal trends, and country-level statistics.  
@@ -150,17 +143,3 @@ Please ⭐ star this repository or fork it to show support. Thank you for visiti
 
 ```
 
----
-
-## 🧩 What to Do Now
-
-1. Copy this `README.md` into your GitHub project root.
-2. Replace:
-   - `your-profile` → your LinkedIn handle
-   - `your-email@example.com` → your email (if you want)
-3. Add a `queries/olympics_queries.sql` file (already provided earlier).
-
----
-
-Would you like me to send a **.zip file with everything ready**, including `README.md` and SQL file for direct GitHub upload?
-```
